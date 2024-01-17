@@ -1,4 +1,4 @@
-# **Jake Gilmore's First CS193 Homework**
+# **<Jake Gilmore\>'s First CS193 Homework**
 
 - _Infortmative and engaging lectures_
 - _Easy to understand slides_
